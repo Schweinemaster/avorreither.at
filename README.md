@@ -4,13 +4,9 @@ My personal website: who I am, what I build, and where to find me.
 
 **-> [avorreither.at](https://avorreither.at)**
 
-## What's in this repository
-
-Only the **built site**, the static files GitHub Pages serves. The source code lives in a separate repository.
-
 ## Built with
 
-- [Astro](https://astro.build): static site, no server
+- [Astro](https://astro.build)
 - TypeScript, [Tailwind CSS](https://tailwindcss.com)
 - [GSAP](https://gsap.com) for scroll motion, plus a small WebGL shader for the hero
 - Hosted on [GitHub Pages](https://pages.github.com)
@@ -18,7 +14,7 @@ Only the **built site**, the static files GitHub Pages serves. The source code l
 ## Privacy
 
 - No cookies, analytics or trackers.
-- Fonts, images and scripts are all served from this site, nothing is loaded from third parties.
+- Fonts, images and scripts are served from this site, nothing is loaded from third parties.
 - The only processing is GitHub's server logs, described in the [privacy policy](https://avorreither.at/en/privacy/).
 
 ## Credits
